@@ -1,0 +1,35 @@
+.imagen1{
+	background-image: url(../img/uno.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+	border-top: 20px solid #ff8a65;
+	border-bottom: 20px solid #ff8a65;
+}
+.imagen2{
+	background-image: url(../img/dos.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+	border-top: 20px solid #ff8a65;
+	border-bottom: 20px solid #ff8a65;
+}
+.imagen3{
+	background-image: url(../img/tres.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+	border-top: 20px solid #ff8a65;
+	border-bottom: 20px solid #ff8a65;
+
+}
+.principal{
+	margin:0vh;
+}
+.b{
+	border:8px solid white;
+
+}
+header footer{
+	margin:0px;
+}
